@@ -7,7 +7,7 @@ You'll usually find me knee-deep in code, config files, or experiments that may 
 
 ## 🔧 My Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,rust,slint.figma,blender,ai,ps,godot,linux,arch,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,rust,figma,blender,ai,ps,godot,linux,arch,raspberrypi)](https://skillicons.dev)
 
 ---
 
