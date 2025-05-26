@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Knee
 
-<!--
-**HumpityDumpityDumber/HumpityDumpityDumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub. I build things — well, actually ChatGPT does — and then I put them here. I'm mostly into 3D modeling, so stuff here usually just has to do with my Linux setup.  
+You'll usually find me knee-deep in code, config files, or experiments that may or may not crash my system. <-- chatgpt wrote that last line
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 My Toolbox
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,blender,rust,ai,ps,arch,godot,ts,linux,raspberrypi)](https://skillicons.dev)
+
+---
+
+<details>
+  <summary>📈 GitHub Stats</summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HumpityDumpityDumber&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=HumpityDumpityDumber&theme=tokyonight" alt="GitHub Streak" />
+</p>
+</details>
