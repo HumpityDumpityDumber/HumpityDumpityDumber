@@ -5,11 +5,14 @@ You'll usually find me knee-deep in code, config files, or experiments that may 
 
 ---
 
-## 🔧 My Toolbox
+<h2 align="center">🔧 My Toolbox 🔧</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,flutter,dart,figma,blender,ai,ps,godot,linux,arch,raspberrypi)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,flutter,dart,figma,blender,ai,ps,godot,linux,arch&perline=6" alt="My Skills" />
+  </a>
+</p>
 
----
 
 <details>
   <summary>📈 GitHub Stats</summary>
