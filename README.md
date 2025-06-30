@@ -9,7 +9,7 @@ You'll usually find me knee-deep in code, config files, or experiments that may 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,,figma,blender,ai,ps,linux,arch&perline=6" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,figma,blender,ai,ps,linux,arch&perline=6" alt="My Skills" />
   </a>
 </p>
 
