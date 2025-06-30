@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Knee
 
-I'm currently messin around with flutter to make a silly little bar with widgets/launcher/notification center hybrid. I'm mostly into 3D modeling, so stuff here usually just has to do with my Linux setup.  
+I'm currently messin around with python to make a silly little bar with widgets/launcher/notification center hybrid. I'm mostly into 3D modeling, so stuff here usually just has to do with my Linux setup.  
 You'll usually find me knee-deep in code, config files, or experiments that may or may not crash my system. <-- chatgpt wrote that last line
 
 ---
