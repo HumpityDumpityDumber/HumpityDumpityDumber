@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Knee
 
 I'm currently messin around with my Arch Linux dotfiles install script found [here](https://github.com/HumpityDumpityDumber/knees-dots-installer). I'm mostly into 3D modeling, so stuff here usually just has to do with my Linux setup.  
-You'll usually find me knee-deep in code, config files, or experiments that may or may not crash my system. <-- chatgpt wrote that last line
 
 ---
 
