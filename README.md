@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Knee
 
-I'm currently messin around with my Arch Linux dotfiles install script found [here](https://github.com/HumpityDumpityDumber/knees-dots-installer). I'm mostly into 3D modeling, so stuff here usually just has to do with my Linux setup.  
+I'm mostly into 3D modeling and graphix design, so stuff here usually just has to do with my Linux setup.  
 
 ---
 
