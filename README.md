@@ -8,7 +8,7 @@ I'm mostly into 3D modeling and graphix design, so stuff here usually just has t
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,blender,ai,ps,linux,arch,godot,python,flutter,dart&perline=6" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,blender,ai,ps,linux,arch,godot,python,flutter&perline=6" alt="My Skills" />
   </a>
 </p>
 
