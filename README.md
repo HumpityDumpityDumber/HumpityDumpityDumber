@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Knee
 
-I'm mostly into 3D modeling and graphix design, so stuff here usually just has to do with my Linux setup.  
+I'm mostly into 3D modeling and graphic design, so stuff here usually just has to do with my Linux setup.  
 
 ---
 
