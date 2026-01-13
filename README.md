@@ -4,7 +4,7 @@ I'm mostly into 3D modeling and graphic design, so stuff here usually just has t
 
 ---
 
-<h2 align="center">🔧 My Toolbox 🔧</h2>
+<h2 align="center">My Toolbox</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
