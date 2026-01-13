@@ -11,12 +11,3 @@ I'm mostly into 3D modeling and graphic design, so stuff here usually just has t
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,blender,ai,ps,linux,arch,python,dart&perline=6" alt="My Skills" />
   </a>
 </p>
-
-
-<details>
-  <summary>📈 GitHub Stats</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HumpityDumpityDumber&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=HumpityDumpityDumber&theme=tokyonight" alt="GitHub Streak" />
-</p>
-</details>
