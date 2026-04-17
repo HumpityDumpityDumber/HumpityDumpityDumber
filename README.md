@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Knee
 
-I'm mostly into 3D modeling and graphic design, so stuff here usually just has to do with my Linux setup.
+I love using niri on my linux desktop! I am working on learning rust, gleam, and a bit of odin currently. 
+
+AWAfy is going to be a daemon for streaming music from the music service AWA. Tea is a small chat app that me and a friend are working on. I am making the backend api in gleam and utilizing postgres! I'd like to make a game soon in Odin.
 
 <details>
 <summary> my switch status for some reason? </summary>
